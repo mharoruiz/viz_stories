@@ -1,4 +1,2 @@
-# viz_stories
-This repository contains the material for my visualisations portfolio, which includes some of the data-drive stories I have been working on lately.
-
-The portfolio can be accessed through the following link; https://cookeddata.shinyapps.io/VisualStories/
+## viz_stories
+This repository contains the material for different data projects I carried out and compilled into an interactive website, which can be accessed via https://cookeddata.shinyapps.io/VisualStories/
